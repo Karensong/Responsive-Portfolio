@@ -1,0 +1,9 @@
+.Name {
+	height: 90px;
+	width: 10px;
+	border: solid;
+	border-color: black;
+	color: white;
+	background-color: #4aaaa5;
+	padding: 100px;
+}
